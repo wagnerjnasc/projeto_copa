@@ -2,12 +2,6 @@
   Copa do Mundo Feminina de 2023 - ETL
 </h1>
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/seu-usuario/seu-repositorio">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/seu-usuario/seu-repositorio">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/seu-usuario/seu-repositorio">
-</p>
-
 ## Descrição
 
 Este repositório contém um pipeline ETL (Extração, Transformação e Carregamento) criado para extrair informações da Copa do Mundo Feminina de 2023, transformá-las em um formato útil e, em seguida, carregá-las em um destino específico.
@@ -32,10 +26,9 @@ Este repositório contém um pipeline ETL (Extração, Transformação e Carrega
 - **Destino de Dados:** Os dados transformados são carregados em um arquivo CSV chamado "dados_copa_2023.csv", que servirá como destino final.
 - **Atualização dos Dados:** O arquivo CSV é atualizado com as informações mais recentes da Copa do Mundo Feminina de 2023, incluindo os resultados atualizados, as estatísticas de gols e as classificações das equipes.
 
-...
-
 ## Como Usar
 
+Este pipeline ETL foi desenvolvido para fins de teste no Santander Dev Week 2023 (SDW2023). Ele serve como uma demonstração de um processo ETL simples e pode não conter muitas funcionalidades práticas para casos de uso reais.
 ...
 
 ## Contato
@@ -43,5 +36,5 @@ Este repositório contém um pipeline ETL (Extração, Transformação e Carrega
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
 - **E-mail:** wagnerjnascimento@live.com
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/wagnerjnascimento/)
-- **Perfil da Digital Innovation One (DIO):** [![DIO](https://img.shields.io/badge/DIO-Perfil-blue)](https://www.dio.me/users/wagnerjnascimento)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wagner-blue)](https://www.linkedin.com/in/wagnerjnascimento/)
+- **Perfil da Digital Innovation One (DIO):** [![DIO](https://img.shields.io/badge/DIO-Wagner-blue)](https://www.dio.me/users/wagnerjnascimento)
